@@ -1,0 +1,12 @@
+2016/06/21 21:20:33 [notice] 7920#11356: signal process started
+2016/06/21 21:20:33 [error] 7920#11356: CreateFile() "D:\WorkSpace\Tools\nginx-1.10.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/06/21 21:30:30 [notice] 8640#12872: signal process started
+2016/06/21 21:33:46 [notice] 11572#9284: signal process started
+2016/06/21 21:34:34 [notice] 9268#9872: signal process started
+2016/06/21 21:37:02 [notice] 9660#7088: signal process started
+2016/06/21 21:39:25 [notice] 8936#10688: signal process started
+2016/06/21 21:49:37 [notice] 12168#13004: signal process started
+2016/06/21 21:51:01 [error] 11508#8600: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /info.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8001"
+2016/06/21 21:52:27 [notice] 3968#7468: signal process started
+2016/06/21 22:21:31 [error] 7568#5700: *1 CreateFile() "D:/WorkSpace/Tools/nginx-1.10.1/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8001", referrer: "http://localhost:8001/info.php"
+2016/06/21 22:38:52 [error] 6700#10528: *11 CreateFile() "D:/WorkSpace/myphp1/php_practice/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8001", referrer: "http://localhost:8001/list.php"
